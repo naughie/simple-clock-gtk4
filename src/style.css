@@ -1,0 +1,15 @@
+label {
+  font-family: 'Roboto';
+  color: #ff91af;
+}
+box.clock {
+  font-weight: bold;
+  font-size: 180px;
+}
+headerbar {
+  font-size: 1.4em;
+  background: #ebfff9;
+}
+window {
+  background: #ebfff9;
+}

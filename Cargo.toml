@@ -1,0 +1,9 @@
+[package]
+name = "simple-clock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = { version = "0.9", package = "gtk4" }
+chrono = { version = "0.4", default-features = false, features = ["now"] }
+async-channel = "2.3"
